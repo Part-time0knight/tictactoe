@@ -1,0 +1,1 @@
+Obj_tick_main.mode = "PVP";
